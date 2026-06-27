@@ -1,6 +1,6 @@
 # Beam Conditioning Student Framework
 
-This is a simplified, split version of the beam-conditioning / spatial-filter simulation.
+This is a simplified, split version of the beam-conditioning / spatial-filter simulation modified by Andrea Mayorga.
 
 ## Files
 
